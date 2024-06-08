@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
+    "time": 66,
+    "timeDay": 66,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 77,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -88,5 +88,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "GovText",
+    "url": "$GOVTEXT_SITE_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "gov-text",
+    "status": "down",
+    "uptime": "40.08%",
+    "uptimeDay": "40.08%",
+    "uptimeWeek": "40.08%",
+    "uptimeMonth": "40.08%",
+    "uptimeYear": "40.08%",
+    "time": 791,
+    "timeDay": 791,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 791,
+    "dailyMinutesDown": {
+      "2024-06-08": 0
+    }
   }
 ]
