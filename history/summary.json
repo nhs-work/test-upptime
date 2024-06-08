@@ -94,19 +94,19 @@
     "url": "$GOVTEXT_SITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gov-text",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 784,
-    "timeDay": 784,
-    "timeWeek": 784,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "status": "up",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 735,
+    "timeDay": 735,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-06-08": 78
+      "2024-06-08": 92
     }
   }
 ]
