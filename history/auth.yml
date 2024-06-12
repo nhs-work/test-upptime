@@ -1,7 +1,7 @@
 url: $AUTH_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-12T23:13:30.538Z
+status: up
+code: 200
+responseTime: 231
+lastUpdated: 2024-06-12T23:26:19.084Z
 startTime: 2024-06-08T08:16:23.162Z
 generator: Upptime <https://github.com/upptime/upptime>
