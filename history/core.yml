@@ -1,7 +1,7 @@
 url: $CORE_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-21T16:17:44.011Z
+status: up
+code: 200
+responseTime: 232
+lastUpdated: 2024-06-21T16:41:07.206Z
 startTime: 2024-06-08T08:16:23.751Z
 generator: Upptime <https://github.com/upptime/upptime>
