@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "down",
-    "uptime": "22.62%",
+    "uptime": "22.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.62%",
-    "uptimeYear": "22.62%",
+    "uptimeMonth": "22.55%",
+    "uptimeYear": "22.55%",
     "time": 766,
     "timeDay": 768,
     "timeWeek": 755,
     "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2024-06-21": 1413,
+      "2024-06-22": 28,
+      "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
@@ -92,8 +93,8 @@
     "slug": "auth",
     "status": "up",
     "uptime": "83.15%",
-    "uptimeDay": "72.83%",
-    "uptimeWeek": "75.53%",
+    "uptimeDay": "76.84%",
+    "uptimeWeek": "75.59%",
     "uptimeMonth": "83.15%",
     "uptimeYear": "83.15%",
     "time": 219,
@@ -102,7 +103,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-06-21": 369,
+      "2024-06-21": 362,
       "2024-06-20": 385,
       "2024-06-19": 304,
       "2024-06-18": 374,
@@ -111,7 +112,7 @@
       "2024-06-15": 276,
       "2024-06-14": 264,
       "2024-06-13": 402,
-      "2024-06-12": 176
+      "2024-06-12": 192
     }
   },
   {
@@ -120,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
     "status": "up",
-    "uptime": "83.72%",
-    "uptimeDay": "74.79%",
-    "uptimeWeek": "77.06%",
-    "uptimeMonth": "83.72%",
-    "uptimeYear": "83.72%",
+    "uptime": "83.70%",
+    "uptimeDay": "78.59%",
+    "uptimeWeek": "77.12%",
+    "uptimeMonth": "83.70%",
+    "uptimeYear": "83.70%",
     "time": 219,
     "timeDay": 215,
-    "timeWeek": 217,
+    "timeWeek": 218,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-06-21": 341,
+      "2024-06-21": 336,
       "2024-06-20": 364,
       "2024-06-19": 289,
       "2024-06-18": 358,
@@ -141,7 +142,7 @@
       "2024-06-14": 240,
       "2024-06-13": 357,
       "2024-06-12": 190,
-      "2024-06-11": 99
+      "2024-06-11": 117
     }
   }
 ]
