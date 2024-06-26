@@ -1,7 +1,7 @@
 url: $QNA_URL
-status: down
-code: 404
-responseTime: 774
-lastUpdated: 2024-06-25T23:11:43.882Z
+status: up
+code: 200
+responseTime: 780
+lastUpdated: 2024-06-26T07:56:12.785Z
 startTime: 2024-06-08T08:16:22.006Z
 generator: Upptime <https://github.com/upptime/upptime>
