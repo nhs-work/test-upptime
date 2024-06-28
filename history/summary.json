@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "24.18%",
+    "uptime": "24.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.84%",
-    "uptimeMonth": "24.18%",
-    "uptimeYear": "24.18%",
+    "uptimeWeek": "24.14%",
+    "uptimeMonth": "24.26%",
+    "uptimeYear": "24.26%",
     "time": 751,
     "timeDay": 778,
     "timeWeek": 721,
@@ -96,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "88.73%",
-    "uptimeDay": "77.77%",
-    "uptimeWeek": "80.33%",
-    "uptimeMonth": "88.73%",
-    "uptimeYear": "88.73%",
+    "uptime": "88.64%",
+    "uptimeDay": "78.18%",
+    "uptimeWeek": "80.68%",
+    "uptimeMonth": "88.64%",
+    "uptimeYear": "88.64%",
     "time": 219,
     "timeDay": 217,
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-06-27": 319,
+      "2024-06-27": 313,
       "2024-06-26": 318,
       "2024-06-25": 342,
       "2024-06-24": 156,
@@ -117,7 +117,7 @@
       "2024-06-20": 385,
       "2024-06-19": 304,
       "2024-06-18": 374,
-      "2024-06-17": 146
+      "2024-06-17": 180
     }
   },
   {
@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
     "status": "up",
-    "uptime": "88.53%",
-    "uptimeDay": "79.67%",
-    "uptimeWeek": "82.35%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "88.53%",
+    "uptime": "88.36%",
+    "uptimeDay": "79.97%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "88.36%",
+    "uptimeYear": "88.36%",
     "time": 219,
     "timeDay": 215,
     "timeWeek": 217,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-06-27": 293,
+      "2024-06-27": 289,
       "2024-06-26": 303,
       "2024-06-25": 300,
       "2024-06-24": 102,
@@ -148,7 +148,7 @@
       "2024-06-19": 289,
       "2024-06-18": 358,
       "2024-06-17": 359,
-      "2024-06-16": 94
+      "2024-06-16": 151
     }
   }
 ]
