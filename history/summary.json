@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "37.79%",
+    "uptime": "37.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.27%",
-    "uptimeMonth": "37.79%",
-    "uptimeYear": "37.79%",
+    "uptimeWeek": "85.60%",
+    "uptimeMonth": "37.85%",
+    "uptimeYear": "37.85%",
     "time": 758,
     "timeDay": 804,
     "timeWeek": 755,
@@ -95,19 +95,19 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
-    "status": "up",
-    "uptime": "91.08%",
-    "uptimeDay": "79.63%",
-    "uptimeWeek": "79.09%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "91.08%",
+    "status": "down",
+    "uptime": "91.13%",
+    "uptimeDay": "79.52%",
+    "uptimeWeek": "79.22%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "91.13%",
     "time": 219,
-    "timeDay": 223,
+    "timeDay": 222,
     "timeWeek": 217,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-02": 74,
+      "2024-07-02": 76,
       "2024-07-01": 337,
       "2024-06-30": 350,
       "2024-06-29": 363,
@@ -118,7 +118,7 @@
       "2024-06-24": 156,
       "2024-06-23": 253,
       "2024-06-22": 230,
-      "2024-06-21": 132
+      "2024-06-21": 116
     }
   },
   {
@@ -126,15 +126,15 @@
     "url": "$CORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
-    "status": "up",
-    "uptime": "90.52%",
-    "uptimeDay": "81.63%",
+    "status": "down",
+    "uptime": "90.58%",
+    "uptimeDay": "81.62%",
     "uptimeWeek": "81.33%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "90.52%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "90.58%",
     "time": 218,
     "timeDay": 222,
-    "timeWeek": 216,
+    "timeWeek": 217,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -150,7 +150,7 @@
       "2024-06-23": 241,
       "2024-06-22": 204,
       "2024-06-21": 336,
-      "2024-06-20": 312
+      "2024-06-20": 295
     }
   }
 ]
