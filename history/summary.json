@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "41.29%",
+    "uptime": "41.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.29%",
-    "uptimeYear": "41.29%",
+    "uptimeMonth": "41.35%",
+    "uptimeYear": "41.35%",
     "time": 758,
     "timeDay": 780,
     "timeWeek": 752,
@@ -95,19 +95,19 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
-    "status": "up",
-    "uptime": "91.58%",
-    "uptimeDay": "78.76%",
-    "uptimeWeek": "78.23%",
-    "uptimeMonth": "91.58%",
-    "uptimeYear": "91.58%",
+    "status": "down",
+    "uptime": "91.66%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "78.21%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "91.66%",
     "time": 219,
-    "timeDay": 215,
+    "timeDay": 214,
     "timeWeek": 217,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-03": 256,
+      "2024-07-03": 258,
       "2024-07-02": 236,
       "2024-07-01": 337,
       "2024-06-30": 350,
@@ -117,7 +117,7 @@
       "2024-06-26": 318,
       "2024-06-25": 342,
       "2024-06-24": 156,
-      "2024-06-23": 197
+      "2024-06-23": 168
     }
   },
   {
@@ -125,15 +125,15 @@
     "url": "$CORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
-    "status": "up",
-    "uptime": "91.41%",
-    "uptimeDay": "79.69%",
+    "status": "down",
+    "uptime": "91.53%",
+    "uptimeDay": "80.76%",
     "uptimeWeek": "80.50%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "91.41%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "91.53%",
     "time": 218,
-    "timeDay": 215,
-    "timeWeek": 216,
+    "timeDay": 214,
+    "timeWeek": 217,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
       "2024-06-24": 102,
       "2024-06-23": 241,
       "2024-06-22": 204,
-      "2024-06-21": 150
+      "2024-06-21": 110
     }
   }
 ]
