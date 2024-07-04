@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "42.26%",
+    "uptime": "42.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.26%",
-    "uptimeYear": "42.26%",
+    "uptimeMonth": "42.43%",
+    "uptimeYear": "42.43%",
     "time": 753,
     "timeDay": 620,
     "timeWeek": 764,
@@ -95,19 +95,19 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
-    "status": "up",
-    "uptime": "91.72%",
-    "uptimeDay": "75.78%",
-    "uptimeWeek": "78.88%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "91.72%",
+    "status": "down",
+    "uptime": "91.79%",
+    "uptimeDay": "78.93%",
+    "uptimeWeek": "79.42%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "91.79%",
     "time": 218,
     "timeDay": 207,
     "timeWeek": 216,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-04": 97,
+      "2024-07-04": 99,
       "2024-07-03": 311,
       "2024-07-02": 236,
       "2024-07-01": 337,
@@ -118,7 +118,7 @@
       "2024-06-26": 318,
       "2024-06-25": 342,
       "2024-06-24": 156,
-      "2024-06-23": 46
+      "2024-06-23": 29
     }
   },
   {
@@ -126,15 +126,15 @@
     "url": "$CORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
-    "status": "up",
-    "uptime": "91.49%",
-    "uptimeDay": "78.05%",
-    "uptimeWeek": "81.28%",
-    "uptimeMonth": "91.49%",
-    "uptimeYear": "91.49%",
+    "status": "down",
+    "uptime": "91.63%",
+    "uptimeDay": "81.10%",
+    "uptimeWeek": "81.83%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "91.63%",
     "time": 218,
     "timeDay": 207,
-    "timeWeek": 216,
+    "timeWeek": 215,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -150,8 +150,7 @@
       "2024-06-25": 300,
       "2024-06-24": 102,
       "2024-06-23": 241,
-      "2024-06-22": 204,
-      "2024-06-21": 42
+      "2024-06-22": 204
     }
   }
 ]
