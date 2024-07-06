@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "46.08%",
+    "uptime": "46.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.08%",
-    "uptimeYear": "46.08%",
+    "uptimeMonth": "46.15%",
+    "uptimeYear": "46.15%",
     "time": 754,
     "timeDay": 719,
     "timeWeek": 760,
@@ -96,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "92.25%",
-    "uptimeDay": "80.95%",
-    "uptimeWeek": "76.91%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "92.25%",
+    "uptime": "92.23%",
+    "uptimeDay": "83.51%",
+    "uptimeWeek": "77.32%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "92.23%",
     "time": 219,
     "timeDay": 218,
     "timeWeek": 218,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-05": 274,
+      "2024-07-05": 266,
       "2024-07-04": 451,
       "2024-07-03": 311,
       "2024-07-02": 236,
@@ -116,7 +116,7 @@
       "2024-06-29": 363,
       "2024-06-28": 207,
       "2024-06-27": 313,
-      "2024-06-26": 241
+      "2024-06-26": 262
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
     "status": "up",
-    "uptime": "91.95%",
-    "uptimeDay": "82.93%",
-    "uptimeWeek": "79.27%",
-    "uptimeMonth": "91.95%",
-    "uptimeYear": "91.95%",
+    "uptime": "91.92%",
+    "uptimeDay": "85.29%",
+    "uptimeWeek": "79.65%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "91.92%",
     "time": 218,
-    "timeDay": 216,
+    "timeDay": 215,
     "timeWeek": 217,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-05": 246,
+      "2024-07-05": 239,
       "2024-07-04": 419,
       "2024-07-03": 280,
       "2024-07-02": 192,
@@ -147,7 +147,7 @@
       "2024-06-27": 289,
       "2024-06-26": 303,
       "2024-06-25": 300,
-      "2024-06-24": 61
+      "2024-06-24": 86
     }
   }
 ]
