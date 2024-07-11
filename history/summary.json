@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "54.33%",
+    "uptime": "54.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "51.01%",
-    "uptimeYear": "54.33%",
+    "uptimeYear": "54.40%",
     "time": 753,
     "timeDay": 742,
     "timeWeek": 751,
@@ -96,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "93.79%",
-    "uptimeDay": "79.06%",
-    "uptimeWeek": "76.96%",
-    "uptimeMonth": "93.34%",
-    "uptimeYear": "93.79%",
+    "uptime": "93.68%",
+    "uptimeDay": "79.67%",
+    "uptimeWeek": "77.46%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "93.68%",
     "time": 218,
-    "timeDay": 218,
+    "timeDay": 217,
     "timeWeek": 218,
     "timeMonth": 219,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-10": 301,
+      "2024-07-10": 292,
       "2024-07-09": 355,
       "2024-07-08": 281,
       "2024-07-07": 358,
@@ -116,7 +116,7 @@
       "2024-07-04": 451,
       "2024-07-03": 311,
       "2024-07-02": 236,
-      "2024-07-01": 60
+      "2024-07-01": 126
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
     "status": "up",
-    "uptime": "93.77%",
-    "uptimeDay": "81.38%",
-    "uptimeWeek": "78.63%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "93.77%",
+    "uptime": "93.59%",
+    "uptimeDay": "81.89%",
+    "uptimeWeek": "79.10%",
+    "uptimeMonth": "93.11%",
+    "uptimeYear": "93.59%",
     "time": 218,
-    "timeDay": 217,
+    "timeDay": 216,
     "timeWeek": 217,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-10": 269,
+      "2024-07-10": 262,
       "2024-07-09": 326,
       "2024-07-08": 273,
       "2024-07-07": 339,
@@ -146,7 +146,7 @@
       "2024-07-03": 280,
       "2024-07-02": 192,
       "2024-07-01": 295,
-      "2024-06-30": 20
+      "2024-06-30": 116
     }
   }
 ]
