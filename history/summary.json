@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "55.69%",
+    "uptime": "55.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.80%",
-    "uptimeYear": "55.69%",
+    "uptimeMonth": "52.96%",
+    "uptimeYear": "55.75%",
     "time": 754,
     "timeDay": 791,
     "timeWeek": 748,
@@ -96,18 +96,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "93.86%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "79.02%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "93.86%",
+    "uptime": "93.82%",
+    "uptimeDay": "82.01%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "93.82%",
     "time": 219,
     "timeDay": 227,
     "timeWeek": 219,
     "timeMonth": 218,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-07-11": 264,
+      "2024-07-11": 258,
       "2024-07-10": 292,
       "2024-07-09": 355,
       "2024-07-08": 281,
@@ -116,7 +116,7 @@
       "2024-07-05": 266,
       "2024-07-04": 451,
       "2024-07-03": 311,
-      "2024-07-02": 96
+      "2024-07-02": 125
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
     "status": "up",
-    "uptime": "94.06%",
-    "uptimeDay": "82.66%",
-    "uptimeWeek": "80.50%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "94.06%",
+    "uptime": "94.03%",
+    "uptimeDay": "82.94%",
+    "uptimeWeek": "80.82%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "94.03%",
     "time": 218,
     "timeDay": 226,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-11": 251,
+      "2024-07-11": 247,
       "2024-07-10": 262,
       "2024-07-09": 326,
       "2024-07-08": 273,
@@ -146,7 +146,7 @@
       "2024-07-04": 419,
       "2024-07-03": 280,
       "2024-07-02": 192,
-      "2024-07-01": 22
+      "2024-07-01": 43
     }
   }
 ]
