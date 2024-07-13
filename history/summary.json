@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qna",
     "status": "up",
-    "uptime": "57.61%",
+    "uptime": "57.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.82%",
-    "uptimeYear": "57.61%",
+    "uptimeMonth": "58.07%",
+    "uptimeYear": "57.70%",
     "time": 750,
     "timeDay": 603,
     "timeWeek": 732,
@@ -95,19 +95,19 @@
     "url": "$AUTH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth",
-    "status": "up",
-    "uptime": "94.12%",
-    "uptimeDay": "73.96%",
-    "uptimeWeek": "77.63%",
-    "uptimeMonth": "93.20%",
-    "uptimeYear": "94.12%",
+    "status": "down",
+    "uptime": "94.19%",
+    "uptimeDay": "78.91%",
+    "uptimeWeek": "78.05%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "94.19%",
     "time": 218,
     "timeDay": 214,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-13": 152,
+      "2024-07-13": 154,
       "2024-07-12": 408,
       "2024-07-11": 258,
       "2024-07-10": 292,
@@ -116,7 +116,7 @@
       "2024-07-07": 358,
       "2024-07-06": 296,
       "2024-07-05": 266,
-      "2024-07-04": 308
+      "2024-07-04": 274
     }
   },
   {
@@ -124,15 +124,15 @@
     "url": "$CORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
-    "status": "up",
-    "uptime": "94.25%",
-    "uptimeDay": "76.32%",
-    "uptimeWeek": "79.21%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "94.25%",
+    "status": "down",
+    "uptime": "94.29%",
+    "uptimeDay": "81.26%",
+    "uptimeWeek": "79.62%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "94.29%",
     "time": 218,
     "timeDay": 213,
-    "timeWeek": 218,
+    "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -145,8 +145,7 @@
       "2024-07-07": 339,
       "2024-07-06": 282,
       "2024-07-05": 239,
-      "2024-07-04": 419,
-      "2024-07-03": 15
+      "2024-07-04": 419
     }
   }
 ]
