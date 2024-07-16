@@ -1,7 +1,7 @@
 url: $AE_URL
-status: down
-code: 403
-responseTime: 1014
-lastUpdated: 2024-07-16T09:30:01.636Z
+status: up
+code: 200
+responseTime: 1133
+lastUpdated: 2024-07-16T09:45:10.633Z
 startTime: 2024-06-08T08:16:20.292Z
 generator: Upptime <https://github.com/upptime/upptime>
