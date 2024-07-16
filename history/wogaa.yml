@@ -1,7 +1,7 @@
 url: $WOGAA_URL
-status: down
-code: 403
-responseTime: 226
-lastUpdated: 2024-07-16T09:30:04.165Z
+status: up
+code: 200
+responseTime: 233
+lastUpdated: 2024-07-16T09:45:13.161Z
 startTime: 2024-06-08T08:16:21.419Z
 generator: Upptime <https://github.com/upptime/upptime>
